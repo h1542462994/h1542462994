@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🎫 Study on Zjut.
+- 🛫 I'm currently working on flutter-class
