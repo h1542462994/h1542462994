@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 - 🎫 Study on Zjut.
-- 🛫 I'm currently working on [**flutter-class**](https://github.com/h1542462994/flutter-class)
+- 🛫 I'm currently working on [**flutter-class**](https://github.com/h1542462994/flutter-class) and [**server**](https://github.com/h1542462994/server)
 - 🚀 My homework is usually update on [**homework.gallery**](https://github.com/h1542462994/homework.gallery) or repository start with **homework**
