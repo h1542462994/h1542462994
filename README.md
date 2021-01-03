@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 - 🚀 My homework is usually update on [**homework.gallery**](https://github.com/h1542462994/homework.gallery) or repository start with **homework**
   - 🔔 **Recently I'm busy on several expirements, so the catalog would be updated after final test.**
 - 📚 [**notebook**](https://h1542462994.github.io/notebook) usually record my tooltips for coding. [**article**](https://h1542462994.github.io/article) is my article archive.
-- 🔔 **The year 2021 I will continue on reading and writing， and learning unity3d**
+- 🔔 **The year 2021 I will continue on reading and writing， and learning unity3d, japanese**
