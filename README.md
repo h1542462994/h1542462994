@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🎫 Study on Zjut. usually use *csharp*、*kotlin* and *dart*
-- 🛫 I'm currently working on [**flutter-class**](https://github.com/h1542462994/flutter-class) and [**server**](https://github.com/h1542462994/server)
+Update At 2021/4/6
+
+- 🎫 Study on Zjut. usually use *csharp*、*kotlin* ~~and *dart*~~
+- 🛫 I'm currently working on [**DailySet**](https://github.com/h1542462994/DailySet)
 - 🚀 My homework is usually update on [**homework.gallery**](https://github.com/h1542462994/homework.gallery) or repository start with **homework**
-  - 🔔 **Recently I'm busy on several expirements, so the catalog would be updated after final test.**
 - 📚 [**notebook**](https://h1542462994.github.io/notebook) usually record my tooltips for coding. [**article**](https://h1542462994.github.io/article) is my article archive.
 - 🔔 **The year 2021 I will continue on reading and writing， and learning unity3d, japanese**
